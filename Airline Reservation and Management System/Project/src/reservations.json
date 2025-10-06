@@ -1,0 +1,12 @@
+{
+    "reservations": [
+        {
+            "flightNumber": "AA123",
+            "passengerId": "P456",
+            "paymentMethod": "Credit Card",
+            "reservationId": "R789",
+            "seatNumber": "15B",
+            "totalCost": 350.0
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "flights": [
+        {
+            "aircraftType": "Boeing 737",
+            "arrivalTime": "2023-12-15 11:45",
+            "departureTime": "2023-12-15 08:30",
+            "destination": "Los Angeles (LAX)",
+            "flightNumber": "AA123",
+            "origin": "New York (JFK)",
+            "status": "Scheduled",
+            "totalSeats": 180
+        }
+    ]
+}
